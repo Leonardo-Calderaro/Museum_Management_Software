@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1697759721 source:c:\users\leona\onedrive\documentos\projetos c\projeto_integrado_multidisciplinar\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<process.h>
+
+1696424156 source:c:\users\leona\onedrive\documentos\projetos c\projeto_integrado_multidisciplinar\funcoes.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+
+1696610881 source:c:\users\leona\onedrive\documentos\projetos c\projeto_integrado_multidisciplinar\estruturas.c
+
+1696982502 source:c:\users\leona\onedrive\documentos\projetos c\projeto_integrado_multidisciplinar\lixeira.c
+
+1697124489 source:c:\users\leona\onedrive\documentos\projetos c\projeto_integrado_multidisciplinar\passagem.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<process.h>
+
